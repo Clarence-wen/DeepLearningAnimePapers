@@ -51,7 +51,7 @@ Contributions welcome!
 ## Anime Image-to-Image Translation
 - Improving Shape Deformation in Unsupervised Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1808.04325) (August 13 2018)
 - Landmark Assisted CycleGAN for Cartoon Face Generation [[arXiv]](https://arxiv.org/abs/1907.01424v1) (July 2 2019)
-- U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1907.10830) (on 25 Jul 2019) [[https://github.com/znxlwm/UGATIT-pytorch]]
+- U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation [[arXiv]](https://arxiv.org/abs/1907.10830) (on 25 Jul 2019) [https://github.com/znxlwm/UGATIT-pytorch]
 
 ## Anime Inpainting
 - Joint Gap Detection and Inpainting of Line Drawings [[link]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sasaki_Joint_Gap_Detection_CVPR_2017_paper.pdf) (2017)
